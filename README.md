@@ -1,6 +1,6 @@
 <span>
   <h3 align="center"> Hi,I'm YOON👋</h3>
-  <h6 align="center"> I am an office worker living in Tokyo. My goal is to be a front-end engineer who can communicate with users.</h6>
+  <h6 align="center"> I am an office worker living in Tokyo.<br> My goal is to be a front-end engineer who can communicate with users.</h6>
   </span>
   
 ---
