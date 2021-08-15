@@ -3,7 +3,9 @@
   <h6 align="center"> I am an office worker living in Tokyo.<br> My goal is to be a front-end engineer who can communicate with users.</h6>
   </span>
   
----
+  <h6 align="center"> KR JP EN</h6>
+
+
   
 <h3 align="center"> 🛠TECH STACK🛠</h3>
 <h6 align="center"> Techs that I've used at least once</h6>
