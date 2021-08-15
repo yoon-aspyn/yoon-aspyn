@@ -1,6 +1,8 @@
-<h3 align="center"> Hi,I'm YOON or ASPYN💛
+<h3 align="center"> Hi,I'm YOON👋</h3>
+<h6 align="center"> 
   
 ---
+  
 <h3 align="center"> 🛠TECH STACK🛠</h3>
 <h6 align="center"> Techs that I've used at least once</h6>
 
@@ -13,6 +15,7 @@
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
 </div>
 
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoon-aspyn&layout=compact)](https://github.com/yoon-aspyn/github-readme-stats)
 
